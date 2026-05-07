@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm Rohan
 
-<!--
-**RohanGopashetti/RohanGopashetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile.
 
-Here are some ideas to get you started:
+I am a **Data Analyst** passionate about uncovering insights and building data-driven solutions. I enjoy bridging the gap between raw data and business strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Python, SQL
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn
+- **Visualization:** Power BI
+- **Databases:**  MySQL, SSMS
+
+## 🚀 Current Projects
+- 
+- 
+
+## 📫 How to reach me
+- [[LinkedIn]((https://www.linkedin.com/in/rohan-gopashetti-b06126193/))]
+- [Portfolio](Your-Link-Here)
