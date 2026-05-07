@@ -15,6 +15,5 @@ I am a **Data Analyst** passionate about uncovering insights and building data-d
 - 
 
 ## 📫 How to reach me
-- 
 - [LinkedIn](https://www.linkedin.com/in/rohan-gopashetti-b06126193/)
 - [Portfolio](Your-Link-Here)
